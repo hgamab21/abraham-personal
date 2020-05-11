@@ -1,0 +1,24 @@
+.home-main {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  min-height: 96vh;
+  background-image: url("../assets/Desk_wide_edit.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title {
+  margin-top: 20vh;
+  font-size: 36px;
+  background-color: transparent;
+}
+
+.tagline {
+  margin-top: 5vh;
+  font-size: 18px;
+  background-color: transparent;
+}
