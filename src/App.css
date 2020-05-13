@@ -1,7 +1,15 @@
 *{
   text-decoration: none;
   list-style: none;
-  background-color: #131313;
+  /*background-color: #131313;*/
   color: #cdcdcd;
   overflow-x: hidden;
+}
+
+body {
+  background-image: url("./assets/apple-noir.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

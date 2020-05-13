@@ -1,17 +1,22 @@
 a{
+  background: transparent;
   color: #cdcdcd;
 }
 
 .nav{
   display: flex;
+  position: fixed;
   justify-content: center;
   width: 100%;
   padding-top: 10px;
+  border-bottom: 2px;
+  border-color: #eeeeee;
+  background: transparent;
 }
 
 .nav-item{
   margin-left: 6%;
   margin-right: 6%;
-  background-color: none;
   font-size: 20px;
+  background: transparent;
 }
