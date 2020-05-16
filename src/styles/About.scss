@@ -1,0 +1,34 @@
+.about-main {
+  display: inline-block;
+  width: 70%;
+  margin-left: 15%;
+  height: auto;
+  min-height: 100vh;
+}
+
+.title {
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 48px !important;
+  background-color: transparent;
+}
+
+.info {
+  margin-top: 5vh;
+  font-size: 25px;
+  background-color: transparent;
+  line-height: 25px;
+}
+
+.personal {
+  text-align: left;
+  float: left;
+  width: 8vw;
+  height: auto;
+  border-style: groove;
+  border-radius: 40px;
+  border-width: 3px;
+  border-color: #2c2149;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}

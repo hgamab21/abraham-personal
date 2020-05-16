@@ -1,13 +1,12 @@
-
 import React from "react";
+import "../../styles/Contact.scss";
+import ContactForm from "../ContactForm";
 
 function Contact() {
   return (
-    <div>
-      <h1>Contact me.</h1>
-      <p>
-      Filler content.
-      </p>
+    <div className="contact-main">
+      <h1 className="title">Get in Touch.</h1>
+      <ContactForm></ContactForm>
     </div>
   );
 }

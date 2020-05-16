@@ -1,5 +1,6 @@
 import React from "react";
-import "../../styles/Home.css";
+import "../../styles/Home.scss";
+import Button from "../Button";
 
 function Home() {
   return (
@@ -8,6 +9,9 @@ function Home() {
       <p className="tagline">
       Developer. Designer. Using technology to bring visions to life.
       </p>
+      <p>Hands-on experience with:</p>
+      
+  <Button label = "Get in Touch"></Button>
     </div>
   );
 }
